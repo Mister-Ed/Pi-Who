@@ -20,7 +20,7 @@ Device before any outdoor casing:
 <img src="https://agoracart.com/images/pi-who-device-sm.jpg">
 
 
-Sample live feed sample:
+Sample live feed image to nearby monitor:
 
 <img src="https://agoracart.com/images/live-feed-whi-sm-mon-only.png">
 
