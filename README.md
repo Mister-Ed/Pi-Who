@@ -10,7 +10,6 @@ Using:
   <li>Ultrasonic sensor</li>
   <li>WiFi networking</li>
 </ul>
-Raspbery Pi 3, Dexter Industries Expansion board.
 
 Originally created in 2016
 
